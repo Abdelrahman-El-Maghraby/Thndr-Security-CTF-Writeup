@@ -394,6 +394,6 @@ F5 = [REDACTED — partial; primitive demonstrated, final token not retrieved]
 ## Author
 
 **Abdelrahman El-Maghraby** — Cybersecurity / Offensive Security
-[GitHub](https://github.com/zzddf656666) · [LinkedIn](https://www.linkedin.com/in/abdelrahman-el-maghraby/)
+[GitHub](https://github.com/Abdelrahman-El-Maghraby) · [LinkedIn](https://www.linkedin.com/in/abdelrahman-el-maghraby/)
 
 > Educational, authorised-assessment write-up. Redacted for public release. Do not use these techniques against systems you do not own or are not explicitly authorised to test.
